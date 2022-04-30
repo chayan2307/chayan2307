@@ -3,7 +3,7 @@
         <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a><br /><br />
     
-- 👋 Hi, I’m @chayan2307
+- 👋 Hi, I’m Chayan
 - 👀 I’m interested in full-stack development.
 - 🌱 I’m currently learning Full Stack Development using Ruby on Rails.
 - 💞️ I’m looking to collaborate on Rails projects.
