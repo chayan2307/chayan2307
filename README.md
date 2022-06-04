@@ -4,9 +4,9 @@
     </a><br /><br />
     
 - 👋 Hi, I’m Chayan
-- 👀 I’m interested in full-stack development.
+- 👀 I’m interested in full-stack development opportunities.
 - 🌱 I’m currently learning Full Stack Development using Ruby on Rails.
-- 💞️ I’m looking to collaborate on Rails projects.
+- 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 Reach me at +447455704391 / chayan.agarwal@yahoo.com
 
 <!---
