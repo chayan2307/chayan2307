@@ -11,7 +11,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2307&theme=radical&title_color=Red&text_color=Blue" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayan2307&show_icons=true&theme=radical&title_color=Red&text_color=Blue&icon_color=3A76F0" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=chayan2307&show_icons=true&theme=radical&title_color=Red&text_color=Blue&icon_color=Red" height="200">
 </div>
 
 <p align="center">
