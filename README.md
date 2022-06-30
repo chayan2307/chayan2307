@@ -12,12 +12,12 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhards&theme=radical&title_color=3A76F0&text_color=fff" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianhards&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2307&theme=radical&title_color=3A76F0&text_color=fff" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=chayan2307&show_icons=true&theme=radical&title_color=3A76F0&text_color=fff&icon_color=3A76F0" height="200">
 </div>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianhards" id="counter">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chayan2307" id="counter">
 </p>
 
 
