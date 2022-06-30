@@ -9,8 +9,6 @@
 - 💞️ I’m looking to collaborate on Web Development projects.
 - 📫 Reach me at +447455704391 / chayan.agarwal@yahoo.com
 
-
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayan2307&theme=radical&title_color=Black&text_color=Blue" height="200">
   <img src="https://github-readme-stats.vercel.app/api?username=chayan2307&show_icons=true&theme=radical&title_color=Black&text_color=Blue&icon_color=3A76F0" height="200">
@@ -19,7 +17,6 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chayan2307" id="counter">
 </p>
-
 
 <!---
 chayan2307/chayan2307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
